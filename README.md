@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChangChunHe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hecc's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangChunHe&layout=compact&theme=buefy&hide_border=true&hide=javascript,html,jupyter+notebook" /> |
+| ------------- | ------------- |
 <!--
 **ChangChunHe/ChangChunHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
